@@ -5,3 +5,6 @@
 
 Android provides three types of XML parsers which are DOM,SAX and XMLPullParser.
 </p>
+# Some ScreenShots:
+<img height=500 width=275 src="https://github.com/Avinash-dev-code/XMLparserusingDom/blob/master/demo.gif"
+/>
