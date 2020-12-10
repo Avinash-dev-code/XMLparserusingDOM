@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iTunes>
+    <itune>
+        <uniqueID>
+            <![CDATA[ 0379 ]]>
+        </uniqueID>
+        <ProduktID>
+            <![CDATA[ 886978015020 ]]>
+        </ProduktID>
+        <Type>
+            <![CDATA[ AUDIO ]]>
+        </Type>
+        <Kategorie>
+            <![CDATA[ NORMAL ]]>
+        </Kategorie>
+        <ShortName>
+            <![CDATA[ ddf-150 ]]>
+        </ShortName>
+        <FolgeNo>
+            <![CDATA[ Folge 150 ]]>
+        </FolgeNo>
+
+        <ReleaseDate>
+            <![CDATA[ 11.11.2011 ]]>
+        </ReleaseDate>
+        <Artist>
+            <![CDATA[ Die drei ??? ]]>
+        </Artist>
+        <Title>
+            <![CDATA[ Geisterbucht ]]>
+        </Title>
+
+        <AutorScript>
+            <![CDATA[ André Minninger ]]>
+        </AutorScript>
+        <AutorBuch>
+            <![CDATA[ Astrid Vollenbruch ]]>
+        </AutorBuch>
+        <RegProduction>
+            <![CDATA[ Heikedine Körting ]]>
+        </RegProduction>
+        <Cover>
+            <![CDATA[ Silvia Christoph ]]>
+        </Cover>
+
+    </itune>
+    <itune>
+        <uniqueID>
+            <![CDATA[ 0378 ]]>
+        </uniqueID>
+        <ProduktID>
+            <![CDATA[ 886977733529 ]]>
+        </ProduktID>
+        <Type>
+            <![CDATA[ AUDIO ]]>
+        </Type>
+        <Kategorie>
+            <![CDATA[ NORMAL ]]>
+        </Kategorie>
+        <ShortName>
+            <![CDATA[ ddf-high ]]>
+        </ShortName>
+        <FolgeNo>
+            <![CDATA[ Special Folge ]]>
+        </FolgeNo>
+
+        <ReleaseDate>
+            <![CDATA[ 11.11.2011 ]]>
+        </ReleaseDate>
+        <Artist>
+            <![CDATA[ Die drei ??? ]]>
+        </Artist>
+        <Title>
+            <![CDATA[ High Strung - Unter Hochspannung ]]>
+        </Title>
+
+        <AutorScript>
+            <![CDATA[ André Minninger ]]>
+        </AutorScript>
+
+        <RegProduction>
+            <![CDATA[ Heikedine Körting ]]>
+        </RegProduction>
+        <Cover>
+            <![CDATA[ Silvia Christoph ]]>
+        </Cover>
+
+    </itune>
+    <itune>
+        <uniqueID>
+            <![CDATA[ 0377 ]]>
+        </uniqueID>
+        <ProduktID>
+            <![CDATA[ 886978014924 ]]>
+        </ProduktID>
+        <Type>
+            <![CDATA[ AUDIO ]]>
+        </Type>
+        <Kategorie>
+            <![CDATA[ NORMAL ]]>
+        </Kategorie>
+        <ShortName>
+            <![CDATA[ audio-ddf-149 ]]>
+        </ShortName>
+        <FolgeNo>
+            <![CDATA[ Folge 149 ]]>
+        </FolgeNo>
+
+        <ReleaseDate>
+            <![CDATA[ 07.10.2011 ]]>
+        </ReleaseDate>
+        <Artist>
+            <![CDATA[ Die drei ??? ]]>
+        </Artist>
+        <Title>
+            <![CDATA[ Der namenlose Gegner ]]>
+        </Title>
+
+        <AutorScript>
+            <![CDATA[ André Minninger ]]>
+        </AutorScript>
+
+        <RegProduction>
+            <![CDATA[ Heikedine Körting ]]>
+        </RegProduction>
+        <Cover>
+            <![CDATA[ Silvia Christoph ]]>
+        </Cover>
+
+
+        <AudioMP3>
+            <![CDATA[ ]]>
+        </AudioMP3>
+    </itune>
+    <itune>
+        <uniqueID>
+            <![CDATA[ 0374 ]]>
+        </uniqueID>
+        <ProduktID>
+            <![CDATA[ 743219911629 ]]>
+        </ProduktID>
+        <Type>
+            <![CDATA[ AUDIO ]]>
+        </Type>
+        <Kategorie>
+            <![CDATA[ NORMAL ]]>
+        </Kategorie>
+        <ShortName>
+            <![CDATA[ audio-ddf-116 ]]>
+        </ShortName>
+        <FolgeNo>
+            <![CDATA[ Folge 116 ]]>
+        </FolgeNo>
+
+        <ReleaseDate>
+            <![CDATA[ 14.06.2004 ]]>
+        </ReleaseDate>
+        <Artist>
+            <![CDATA[ Die drei ??? ]]>
+        </Artist>
+        <Title>
+            <![CDATA[ Codename: Cobra ]]>
+        </Title>
+        <AutorScript>
+            <![CDATA[ André Minninger ]]>
+        </AutorScript>
+
+        <RegProduction>
+            <![CDATA[ Heikedine Körting ]]>
+        </RegProduction>
+        <Cover>
+            <![CDATA[ Silvia Christoph ]]>
+        </Cover>
+
+    </itune>
+    <itune>
+        <uniqueID>
+            <![CDATA[ 0373 ]]>
+        </uniqueID>
+        <ProduktID>
+            <![CDATA[ 743219911728 ]]>
+        </ProduktID>
+        <Type>
+            <![CDATA[ AUDIO ]]>
+        </Type>
+        <Kategorie>
+            <![CDATA[ NORMAL ]]>
+        </Kategorie>
+        <ShortName>
+            <![CDATA[ audio-ddf-117 ]]>
+        </ShortName>
+        <FolgeNo>
+            <![CDATA[ Folge 117 ]]>
+        </FolgeNo>
+
+        <ReleaseDate>
+            <![CDATA[ 06.09.2004 ]]>
+        </ReleaseDate>
+        <Artist>
+            <![CDATA[ Die drei ??? ]]>
+        </Artist>
+        <Title>
+            <![CDATA[ Der finstere Rivale ]]>
+        </Title>
+
+        <AutorScript>
+            <![CDATA[ André Minninger ]]>
+        </AutorScript>
+
+        <RegProduction>
+            <![CDATA[ Heikedine Körting ]]>
+        </RegProduction>
+        <Cover>
+            <![CDATA[ Silvia Christoph ]]>
+        </Cover>
+
+    </itune>
+</iTunes>

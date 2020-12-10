@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookData>
+    <book>
+        <uniqueID>
+            <![CDATA[ 00572 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 23-324-13241]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Trilogie im Schuber ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ toteninsel_trilogie ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Toteninsel 100. Fall ]]>
+        </Title>
+        <AutorFName1>
+            <![CDATA[ André ]]>
+        </AutorFName1>
+
+        <Erscheinungsjahr>
+            <![CDATA[ 2001 ]]>
+        </Erscheinungsjahr>
+        <OriginalausgabeLieferbar>
+            <![CDATA[ nein ]]>
+        </OriginalausgabeLieferbar>
+        <Kurztext>
+            <![CDATA[ test ]]>
+        </Kurztext>
+        <Illustrator>
+            <![CDATA[ Silvia Christoph ]]>
+        </Illustrator>
+
+
+
+        <ThumbURL>
+            <![CDATA[ http://www.witsindia.com/ftp/test/thumb/1317298436toteninsel_trilogie_thumb.jpg ]]>
+        </ThumbURL>
+
+    </book>
+    <book>
+        <uniqueID>
+            <![CDATA[ 00571 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 978-3-440-12144-3 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Trilogie im Schuber ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ geisterbucht_trilogie ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Geisterbucht 150. Fall ]]>
+        </Title>
+        <AutorFName1>
+            <![CDATA[ Astrid ]]>
+        </AutorFName1>
+
+        <Erscheinungsjahr>
+            <![CDATA[ 2010 ]]>
+        </Erscheinungsjahr>
+        <OriginalausgabeLieferbar>
+            <![CDATA[ ja ]]>
+        </OriginalausgabeLieferbar>
+        <Kurztext>
+            <![CDATA[ test ]]>
+        </Kurztext>
+        <Illustrator>
+            <![CDATA[ Silvia Christoph ]]>
+        </Illustrator>
+
+        <ThumbURL>
+            <![CDATA[ http://www.witsindia.com/ftp/test/thumb/1317298478geisterbucht_trilogie_thumb.jpg ]]>
+        </ThumbURL>
+
+    </book>
+    <book>
+        <uniqueID>
+            <![CDATA[ 00570 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Trilogie im Schuber ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ feuermond_trilogie ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Feuermond 125. Fall ]]>
+        </Title>
+        <AutorFName1>
+            <![CDATA[ André ]]>
+        </AutorFName1>
+
+        <Erscheinungsjahr>
+            <![CDATA[ 2005 ]]>
+        </Erscheinungsjahr>
+        <OriginalausgabeLieferbar>
+            <![CDATA[ nein ]]>
+        </OriginalausgabeLieferbar>
+        <Kurztext>
+            <![CDATA[ test ]]>
+        </Kurztext>
+        <Illustrator>
+            <![CDATA[ Silvia Christoph ]]>
+        </Illustrator>
+
+
+        <ThumbURL>
+            <![CDATA[ http://www.witsindia.com/ftp/test/thumb/1317298503feuermond_trilogie_thumb.jpg ]]>
+        </ThumbURL>
+
+    </book>
+    <book>
+        <uniqueID>
+            <![CDATA[ 00559 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 978-3-440-12493-2 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Trilogie im Schuber ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ top_secret ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Top Secret Edition ]]>
+        </Title>
+        <AutorFName1>
+            <![CDATA[ Peter ]]>
+        </AutorFName1>
+
+        <Erscheinungsjahr>
+            <![CDATA[ 2011 ]]>
+        </Erscheinungsjahr>
+        <OriginalausgabeLieferbar>
+            <![CDATA[ ja ]]>
+        </OriginalausgabeLieferbar>
+        <Kurztext>
+            <![CDATA[ test ]]>
+        </Kurztext>
+        <Illustrator>
+            <![CDATA[ Silvia Christoph ]]>
+        </Illustrator>
+
+        <ThumbURL>
+            <![CDATA[ http://www.witsindia.com/ftp/test/thumb/1317199893top_secret_trilogie_thumb.jpg ]]>
+        </ThumbURL>
+
+    </book>
+    <book>
+        <uniqueID>
+            <![CDATA[ 00558 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 978-3-440-12620-2 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Trilogie im Schuber ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ dreitag ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Der dreiTag ]]>
+        </Title>
+        <AutorFName1>
+            <![CDATA[ Hendrik ]]>
+        </AutorFName1>
+
+        <Erscheinungsjahr>
+            <![CDATA[ 2011 ]]>
+        </Erscheinungsjahr>
+        <OriginalausgabeLieferbar>
+            <![CDATA[ ja ]]>
+        </OriginalausgabeLieferbar>
+        <Kurztext>
+            <![CDATA[ test ]]>
+        </Kurztext>
+        <Illustrator>
+            <![CDATA[ Silvia Christoph ]]>
+        </Illustrator>
+
+        <ThumbURL>
+            <![CDATA[ http://www.witsindia.com/ftp/test/thumb/1317204399dreitag_trilogie_thumb.jpg ]]>
+        </ThumbURL>
+
+    </book>
+</BookData>
+    <!--<records>-->
+    <!--    <employee>-->
+    <!--        <name>Sairamkrishna</name>-->
+    <!--        <surname>Mammahe</surname>-->
+    <!--    </employee>-->
+
+    <!--    <employee>-->
+    <!--        <name>Gopal </name>-->
+    <!--        <surname>Varma</surname>-->
+    <!--    </employee>-->
+
+    <!--    <employee>-->
+    <!--        <name>Raja</name>-->
+    <!--        <surname>Hr</surname>-->
+    <!--    </employee>-->
+
+    <!--</records>-->
+
+
+
+    <!--    Books:-->
+    <!--    http://www.witsindia.com/ftp/test/books.xml-->
+    <!--    Music:-->
+    <!--    http://www.witsindia.com/ftp/test/music.xml-->
+    <!--    Games:-->
+    <!--    http://www.witsindia.com/ftp/test/games.xml -->

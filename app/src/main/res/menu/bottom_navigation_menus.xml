@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Books_section"
+        android:icon="@drawable/books_icon"
+        android:title="@string/books_title" />
+    <item
+        android:id="@+id/Music_section"
+        android:icon="@drawable/music_icon"
+        android:title="@string/music_title" />
+    <item
+        android:id="@+id/Games_section"
+        android:icon="@drawable/games_icon"
+        android:title="@string/games_title" />
+</menu>

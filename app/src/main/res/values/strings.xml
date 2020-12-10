@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XmlParserAssignment</string>
+    <string name="books_fragment_text">Hello Books fragment</string>
+    <string name="music_fragment_text">Hello Music fragment</string>
+    <string name="games_fragment_text">Hello Games fragment</string>
+    <string name="books_title">Books</string>
+    <string name="music_title">Music</string>
+    <string name="games_title">Games</string>
+</resources>

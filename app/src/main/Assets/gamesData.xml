@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GamesData>
+    <game>
+        <uniqueID>
+            <![CDATA[ 00037 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 4260187450203 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Einzeltitel ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ verfluchtes_schloss_wii ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Die drei ??? - Das verfluchte Schloss: Das Spiel zum Film für Wii ]]>
+        </Title>
+        <Publisher>
+            <![CDATA[ USM ]]>
+        </Publisher>
+        <Entwickler>
+            <![CDATA[ Exozet Games ]]>
+        </Entwickler>
+        <USK>
+            <![CDATA[ 0 ]]>
+        </USK>
+        <Platform>
+            <![CDATA[ Nintendo Wii ]]>
+        </Platform>
+
+    </game>
+    <game>
+        <uniqueID>
+            <![CDATA[ 00036 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 4260187455017 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Einzeltitel ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ quiz ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Die drei ??? - Das Quiz: Teste dein Wissen zu den Kult-Detektiven ]]>
+        </Title>
+        <Publisher>
+            <![CDATA[ USM ]]>
+        </Publisher>
+        <Entwickler>
+            <![CDATA[ behind the game ]]>
+        </Entwickler>
+
+        <USK>
+            <![CDATA[ 0 ]]>
+        </USK>
+        <Platform>
+            <![CDATA[ PC ]]>
+        </Platform>
+
+    </game>
+    <game>
+        <uniqueID>
+            <![CDATA[ 00035 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 4260187450210 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Einzeltitel ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ verfluchtes_schloss_pc ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Die drei ??? - Das verfluchte Schloss: Das PC-Game zum Kinofilm ]]>
+        </Title>
+        <Publisher>
+            <![CDATA[ USM ]]>
+        </Publisher>
+        <Entwickler>
+            <![CDATA[ Exozet Games ]]>
+        </Entwickler>
+
+        <USK>
+            <![CDATA[ 0 ]]>
+        </USK>
+
+    </game>
+    <game>
+        <uniqueID>
+            <![CDATA[ 00034 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 9783803244253 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Sammlung ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ goldedition2 ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Die drei ??? Goldedition Band 4-6 ]]>
+        </Title>
+        <Publisher>
+            <![CDATA[ USM ]]>
+        </Publisher>
+        <Entwickler>
+            <![CDATA[ Büro für Neue Medien ]]>
+        </Entwickler>
+
+        <USK>
+            <![CDATA[ 6 ]]>
+        </USK>
+        <Platform>
+            <![CDATA[ PC ]]>
+        </Platform>
+
+    </game>
+    <game>
+        <uniqueID>
+            <![CDATA[ 00033 ]]>
+        </uniqueID>
+        <ProductID>
+            <![CDATA[ 9783803244246 ]]>
+        </ProductID>
+        <Type>
+            <![CDATA[ Sammlung ]]>
+        </Type>
+        <ShortName>
+            <![CDATA[ goldedition1 ]]>
+        </ShortName>
+        <Title>
+            <![CDATA[ Die drei ??? Goldedition Band 1-3 ]]>
+        </Title>
+        <Publisher>
+            <![CDATA[ USM ]]>
+        </Publisher>
+        <Entwickler>
+            <![CDATA[ Büro für Neue Medien ]]>
+        </Entwickler>
+
+        <USK>
+            <![CDATA[ 6 ]]>
+        </USK>
+        <Platform>
+            <![CDATA[ PC ]]>
+        </Platform>
+
+    </game>
+</GamesData>
